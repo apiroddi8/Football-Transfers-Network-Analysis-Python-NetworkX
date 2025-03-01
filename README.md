@@ -4,5 +4,6 @@ NB: Il codice è stato caricato su Github in formato PDF per esigenze relative a
 
 In questo progetto, si è cercato di sfruttare le conoscenze acquisite sulla network analysis per rispondere ad alcuni quesiti relativi all'ambito dei trasferimenti nel calciomercato europeo e, nello specifico, quello italiano.
 Attraverso l'utilizzo del linguaggio Python ed in particolar modo della libreria NetworkX, si è cercato di rispondere nel modo più esaustivo possibile alle domande di fondo che hanno ispirato il progetto stesso, ottenendo risultati interessanti, alcuni dei quali ulteriormente approfondibili.
-
+<a href="https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset" target="_blank">Kaggle</a>.
+<a href="https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset" target="_blank">Kaggle</a>.
 
